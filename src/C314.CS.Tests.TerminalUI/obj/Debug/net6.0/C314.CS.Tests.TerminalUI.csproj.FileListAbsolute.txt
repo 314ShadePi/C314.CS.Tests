@@ -1,0 +1,15 @@
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/bin/Debug/net6.0/C314.CS.Tests.TerminalUI
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/bin/Debug/net6.0/C314.CS.Tests.TerminalUI.deps.json
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/bin/Debug/net6.0/C314.CS.Tests.TerminalUI.runtimeconfig.json
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/bin/Debug/net6.0/C314.CS.Tests.TerminalUI.dll
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/bin/Debug/net6.0/C314.CS.Tests.TerminalUI.pdb
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.csproj.AssemblyReference.cache
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.GeneratedMSBuildEditorConfig.editorconfig
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.AssemblyInfoInputs.cache
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.AssemblyInfo.cs
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.csproj.CoreCompileInputs.cache
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.dll
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/refint/C314.CS.Tests.TerminalUI.dll
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.pdb
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/C314.CS.Tests.TerminalUI.genruntimeconfig.cache
+/home/cccxivshadepi/C314.CS.Tests/src/C314.CS.Tests.TerminalUI/obj/Debug/net6.0/ref/C314.CS.Tests.TerminalUI.dll
